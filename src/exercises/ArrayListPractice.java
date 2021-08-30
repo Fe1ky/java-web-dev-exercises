@@ -2,7 +2,7 @@ package exercises;
 import java.util.ArrayList;
 
 
-public class arrayListPractice {
+public class ArrayListPractice {
 
 
 
